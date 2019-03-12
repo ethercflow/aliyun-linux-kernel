@@ -1,0 +1,10 @@
+This is a credits-file of people that have contributed to Aliyun
+Linux OS project and Aliyun Linux Kernel project. The list is
+sorted by name. The fields in this list are very much like the
+ones used in Linux kernel project.
+
+----------------------------
+
+N: Aliyun CLI developer team
+W: https://github.com/aliyun/aliyun-cli
+D: Universal Command Line Interface for Alibaba Cloud
